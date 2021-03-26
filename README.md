@@ -22,7 +22,7 @@
 ### Contact me here     :point_down:
 &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ashwini-pal-1848ba180/">
     <img align="center" width="26px" src="https://github.com/ashwiniswag/ashwiniswag/blob/main/assets/linkedin.jpeg" />
- </a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ </a>  &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ashwnipal360@gmail.com">
     <img align="center" width="26px" src="https://github.com/ashwiniswag/ashwiniswag/blob/main/assets/gmail.png" />
 </a>
